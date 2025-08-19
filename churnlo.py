@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import joblib as jl
-from sklearn.ensemble import GradientBoostingClassifier
 
 # ---------- Setup ----------
 st.set_page_config(page_title="Prediksi Pelanggan", layout="wide")
